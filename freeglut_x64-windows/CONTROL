@@ -1,0 +1,5 @@
+Package: freeglut
+Version: 3.0.0-5
+Architecture: x64-windows
+Multi-Arch: same
+Description: Open source implementation of GLUT with source and binary backwards compatibility.
